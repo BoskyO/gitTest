@@ -1,4 +1,7 @@
 This is a test file for testing git.
 What next?
 We'll ask git what it thinks about this.
+
+Now add some more text to the file.
+Pretty good.
 end
